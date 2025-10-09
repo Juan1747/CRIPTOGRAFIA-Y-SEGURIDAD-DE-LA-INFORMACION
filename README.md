@@ -28,5 +28,4 @@ El **Cifrado Vigenère** es un cifrado de sustitución polialfabético que utili
 ## Requisitos
 Para ejecutar los algoritmos de cifrado, necesitas tener Python instalado en tu sistema.
 
-```bash
-pip install -r requirements.txt
+
